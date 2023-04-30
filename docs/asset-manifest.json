@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/locker_kfireven/static/css/main.77c62599.chunk.css",
+    "main.js": "/locker_kfireven/static/js/main.7cb632dd.chunk.js",
+    "main.js.map": "/locker_kfireven/static/js/main.7cb632dd.chunk.js.map",
+    "runtime-main.js": "/locker_kfireven/static/js/runtime-main.89664f89.js",
+    "runtime-main.js.map": "/locker_kfireven/static/js/runtime-main.89664f89.js.map",
+    "static/js/2.19a43c06.chunk.js": "/locker_kfireven/static/js/2.19a43c06.chunk.js",
+    "static/js/2.19a43c06.chunk.js.map": "/locker_kfireven/static/js/2.19a43c06.chunk.js.map",
+    "index.html": "/locker_kfireven/index.html",
+    "static/css/main.77c62599.chunk.css.map": "/locker_kfireven/static/css/main.77c62599.chunk.css.map",
+    "static/js/2.19a43c06.chunk.js.LICENSE.txt": "/locker_kfireven/static/js/2.19a43c06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89664f89.js",
+    "static/js/2.19a43c06.chunk.js",
+    "static/css/main.77c62599.chunk.css",
+    "static/js/main.7cb632dd.chunk.js"
+  ]
+}
